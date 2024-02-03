@@ -1,0 +1,8 @@
+numpy
+seaborn
+pandas
+tensorflow
+keras
+Pillow
+streamlit
+rembg
